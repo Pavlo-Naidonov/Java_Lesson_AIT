@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HW_12/HW_12.iml" filepath="$PROJECT_DIR$/HW_12/HW_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW_13/HW_13.iml" filepath="$PROJECT_DIR$/HW_13/HW_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW_14/HW_14.iml" filepath="$PROJECT_DIR$/HW_14/HW_14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW_14/HW_14_2/HW_14_2.iml" filepath="$PROJECT_DIR$/HW_14/HW_14_2/HW_14_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW_15/HW_15.iml" filepath="$PROJECT_DIR$/HW_15/HW_15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW_17/HW_17.iml" filepath="$PROJECT_DIR$/HW_17/HW_17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW_18/HW_18.iml" filepath="$PROJECT_DIR$/HW_18/HW_18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW_19/HW_19.iml" filepath="$PROJECT_DIR$/HW_19/HW_19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW_20/HW_20.iml" filepath="$PROJECT_DIR$/HW_20/HW_20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW_21/HW_21.iml" filepath="$PROJECT_DIR$/HW_21/HW_21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW_23/HW_23.iml" filepath="$PROJECT_DIR$/HW_23/HW_23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HW_24/HW_24.iml" filepath="$PROJECT_DIR$/HW_24/HW_24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L_12/L_12.iml" filepath="$PROJECT_DIR$/L_12/L_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L_13/L_13.iml" filepath="$PROJECT_DIR$/L_13/L_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L_14/L_14.iml" filepath="$PROJECT_DIR$/L_14/L_14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L_14/L_14_2/L_14_2.iml" filepath="$PROJECT_DIR$/L_14/L_14_2/L_14_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L_14/L_14_3/L_14_3.iml" filepath="$PROJECT_DIR$/L_14/L_14_3/L_14_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L_15/L_15.iml" filepath="$PROJECT_DIR$/L_15/L_15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L_23/L_23.iml" filepath="$PROJECT_DIR$/L_23/L_23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L_24/L_24.iml" filepath="$PROJECT_DIR$/L_24/L_24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson.iml" filepath="$PROJECT_DIR$/Lesson.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test/Test.iml" filepath="$PROJECT_DIR$/Test/Test.iml" />
+    </modules>
+  </component>
+</project>

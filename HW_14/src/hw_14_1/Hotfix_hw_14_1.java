@@ -1,0 +1,30 @@
+package hw_14_1;
+
+/*
+Задание 1
+Исходные данные программы:
+
+имя
+отчество
+фамилия
+Создайте переменные для этих данных. После чего сформируйте строке вида:
+
+Николай Иванович Петров (Н.И. Петров)
+Copy
+Подсказка: что бы получить инициалы, используйте charAt как мы делали на занятие
+*/
+
+public class Hotfix_hw_14_1 {
+
+        public static void main(String[] args) {
+
+            String name = "Pavlo";
+            String patronymic = "Oleksievich";
+            String surname = "Naidonov";
+
+            String fullName = name + " " + patronymic + " " + surname;
+            String initials = "(" + name.charAt(0) + "." + patronymic.charAt(0) + ". " + surname + ")";
+
+            System.out.println(fullName + " " + initials);
+        }
+}
