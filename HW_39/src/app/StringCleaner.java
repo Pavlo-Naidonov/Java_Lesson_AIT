@@ -10,7 +10,7 @@ public class StringCleaner {
         while (iterator.hasNext()) {
             String word = iterator.next();
             if (word.length() < 3) {
-                iterator.remove(); // видаляємо коротке слово
+                iterator.remove();
             }
         }
     }

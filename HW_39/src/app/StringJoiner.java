@@ -12,7 +12,7 @@ public class StringJoiner {
             String word = iterator.next();
             result.append(word);
             if (iterator.hasNext()) {
-                result.append(","); // додаємо кому, але не після останнього слова
+                result.append(",");
             }
         }
 
