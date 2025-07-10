@@ -31,4 +31,14 @@ public class Main {
         return string;
     }
 
+    public static void delete(List<String>list){
+        Iterator<String> iterator = list.iterator();
+        while (iterator.hasNext()){
+            String word = iterator.next();
+            if (word.length()<3){
+                iterator.remove();
+            }
+        }
+    }
+
 }
